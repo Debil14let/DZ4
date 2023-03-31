@@ -1,0 +1,24 @@
+ul, li{
+    margin: 0;
+    padding: 0;
+}
+
+ul{
+   list-style:none;
+   width: 100%;
+}
+
+li{
+    float:left;
+    width: auto;
+}
+
+a{
+   background: red;
+   color:brown ;
+   display: block;
+   font: bold 13px sans-serif;
+   padding: 20px 35px;
+   text-align: center;
+   text-decoration: none;
+}
